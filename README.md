@@ -1,1 +1,3 @@
-# Trabajo-Practico-Final-LAB3
+Trabajo-Practico-Final-LAB-3
+
+Integrantes: Tomas Denk, Agustin Dasilva, Hernan Cerillano
